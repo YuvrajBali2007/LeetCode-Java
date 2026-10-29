@@ -7,6 +7,7 @@ My Java solutions to LeetCode and DSA problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/YuvrajBali2007/LeetCode-Java/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/YuvrajBali2007/LeetCode-Java/tree/master/0031-next-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,4 +24,8 @@ My Java solutions to LeetCode and DSA problems
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/YuvrajBali2007/LeetCode-Java/tree/master/0231-power-of-two) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/YuvrajBali2007/LeetCode-Java/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->

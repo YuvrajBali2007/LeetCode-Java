@@ -8,6 +8,7 @@ My Java solutions to LeetCode and DSA problems
 | ------- |
 | [0001-two-sum](https://github.com/YuvrajBali2007/LeetCode-Java/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/YuvrajBali2007/LeetCode-Java/tree/master/0031-next-permutation) |
+| [0137-single-number-ii](https://github.com/YuvrajBali2007/LeetCode-Java/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/YuvrajBali2007/LeetCode-Java/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/YuvrajBali2007/LeetCode-Java/tree/master/0229-majority-element-ii) |
 | [0410-split-array-largest-sum](https://github.com/YuvrajBali2007/LeetCode-Java/tree/master/0410-split-array-largest-sum) |
@@ -23,6 +24,7 @@ My Java solutions to LeetCode and DSA problems
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/YuvrajBali2007/LeetCode-Java/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/YuvrajBali2007/LeetCode-Java/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/YuvrajBali2007/LeetCode-Java/tree/master/0231-power-of-two) |
 ## Recursion

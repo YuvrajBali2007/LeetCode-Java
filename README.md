@@ -13,6 +13,7 @@ My Java solutions to LeetCode and DSA problems
 | [0229-majority-element-ii](https://github.com/YuvrajBali2007/LeetCode-Java/tree/master/0229-majority-element-ii) |
 | [0410-split-array-largest-sum](https://github.com/YuvrajBali2007/LeetCode-Java/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/YuvrajBali2007/LeetCode-Java/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/YuvrajBali2007/LeetCode-Java/tree/master/0860-lemonade-change) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,6 +69,7 @@ My Java solutions to LeetCode and DSA problems
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/YuvrajBali2007/LeetCode-Java/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/YuvrajBali2007/LeetCode-Java/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/YuvrajBali2007/LeetCode-Java/tree/master/0860-lemonade-change) |
 ## Prefix Sum
 |  |
 | ------- |

@@ -8,6 +8,7 @@ My Java solutions to LeetCode and DSA problems
 | ------- |
 | [0001-two-sum](https://github.com/YuvrajBali2007/LeetCode-Java/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/YuvrajBali2007/LeetCode-Java/tree/master/0031-next-permutation) |
+| [0056-merge-intervals](https://github.com/YuvrajBali2007/LeetCode-Java/tree/master/0056-merge-intervals) |
 | [0137-single-number-ii](https://github.com/YuvrajBali2007/LeetCode-Java/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/YuvrajBali2007/LeetCode-Java/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/YuvrajBali2007/LeetCode-Java/tree/master/0229-majority-element-ii) |
@@ -45,6 +46,7 @@ My Java solutions to LeetCode and DSA problems
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/YuvrajBali2007/LeetCode-Java/tree/master/0056-merge-intervals) |
 | [0229-majority-element-ii](https://github.com/YuvrajBali2007/LeetCode-Java/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/YuvrajBali2007/LeetCode-Java/tree/master/0455-assign-cookies) |
 ## Counting
@@ -77,5 +79,6 @@ My Java solutions to LeetCode and DSA problems
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/YuvrajBali2007/LeetCode-Java/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/YuvrajBali2007/LeetCode-Java/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->

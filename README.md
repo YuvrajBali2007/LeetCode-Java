@@ -21,6 +21,7 @@ My Java solutions to LeetCode and DSA problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/YuvrajBali2007/LeetCode-Java/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/YuvrajBali2007/LeetCode-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0229-majority-element-ii](https://github.com/YuvrajBali2007/LeetCode-Java/tree/master/0229-majority-element-ii) |
 ## Math
 |  |
@@ -94,4 +95,12 @@ My Java solutions to LeetCode and DSA problems
 |  |
 | ------- |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/YuvrajBali2007/LeetCode-Java/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/YuvrajBali2007/LeetCode-Java/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/YuvrajBali2007/LeetCode-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->

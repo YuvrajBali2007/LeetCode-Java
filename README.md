@@ -17,6 +17,7 @@ My Java solutions to LeetCode and DSA problems
 | [0455-assign-cookies](https://github.com/YuvrajBali2007/LeetCode-Java/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/YuvrajBali2007/LeetCode-Java/tree/master/0860-lemonade-change) |
 | [1004-max-consecutive-ones-iii](https://github.com/YuvrajBali2007/LeetCode-Java/tree/master/1004-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/YuvrajBali2007/LeetCode-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/YuvrajBali2007/LeetCode-Java/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Hash Table
 |  |
@@ -88,6 +89,7 @@ My Java solutions to LeetCode and DSA problems
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/YuvrajBali2007/LeetCode-Java/tree/master/0410-split-array-largest-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/YuvrajBali2007/LeetCode-Java/tree/master/1004-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/YuvrajBali2007/LeetCode-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/YuvrajBali2007/LeetCode-Java/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Quicksort
 |  |
@@ -107,4 +109,5 @@ My Java solutions to LeetCode and DSA problems
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/YuvrajBali2007/LeetCode-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/YuvrajBali2007/LeetCode-Java/tree/master/1004-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/YuvrajBali2007/LeetCode-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->

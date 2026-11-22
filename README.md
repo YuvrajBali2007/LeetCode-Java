@@ -25,6 +25,7 @@ My Java solutions to LeetCode and DSA problems
 | [0001-two-sum](https://github.com/YuvrajBali2007/LeetCode-Java/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/YuvrajBali2007/LeetCode-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0229-majority-element-ii](https://github.com/YuvrajBali2007/LeetCode-Java/tree/master/0229-majority-element-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/YuvrajBali2007/LeetCode-Java/tree/master/0424-longest-repeating-character-replacement) |
 ## Math
 |  |
 | ------- |
@@ -104,10 +105,12 @@ My Java solutions to LeetCode and DSA problems
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/YuvrajBali2007/LeetCode-Java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/YuvrajBali2007/LeetCode-Java/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/YuvrajBali2007/LeetCode-Java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/YuvrajBali2007/LeetCode-Java/tree/master/0424-longest-repeating-character-replacement) |
 | [1004-max-consecutive-ones-iii](https://github.com/YuvrajBali2007/LeetCode-Java/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/YuvrajBali2007/LeetCode-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->

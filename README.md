@@ -105,6 +105,7 @@ My Java solutions to LeetCode and DSA problems
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/YuvrajBali2007/LeetCode-Java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/YuvrajBali2007/LeetCode-Java/tree/master/0020-valid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/YuvrajBali2007/LeetCode-Java/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
@@ -113,4 +114,12 @@ My Java solutions to LeetCode and DSA problems
 | [0424-longest-repeating-character-replacement](https://github.com/YuvrajBali2007/LeetCode-Java/tree/master/0424-longest-repeating-character-replacement) |
 | [1004-max-consecutive-ones-iii](https://github.com/YuvrajBali2007/LeetCode-Java/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/YuvrajBali2007/LeetCode-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/YuvrajBali2007/LeetCode-Java/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/YuvrajBali2007/LeetCode-Java/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

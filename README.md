@@ -30,6 +30,7 @@ My Java solutions to LeetCode and DSA problems
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/YuvrajBali2007/LeetCode-Java/tree/master/0231-power-of-two) |
+| [3360-stone-removal-game](https://github.com/YuvrajBali2007/LeetCode-Java/tree/master/3360-stone-removal-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -122,4 +123,8 @@ My Java solutions to LeetCode and DSA problems
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/YuvrajBali2007/LeetCode-Java/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [3360-stone-removal-game](https://github.com/YuvrajBali2007/LeetCode-Java/tree/master/3360-stone-removal-game) |
 <!---LeetCode Topics End-->
